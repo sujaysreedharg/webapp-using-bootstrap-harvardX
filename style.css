@@ -1,0 +1,153 @@
+
+div>p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+.navbar-brand{
+    font-weight: 600;
+    font-size: 2rem;
+}
+.nav-item{
+    margin: 0 20px; 
+    font-style: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#main{
+    background : url('./imagebg.png');
+    background-size: cover;
+    height: 100vh;
+    padding-bottom: 2cm;
+}
+.container{
+    color:black;
+}
+.header-info{
+    font-weight: 600;
+    font-size: 3rem;
+    color: blanchedalmon;
+    padding-bottom: 1cm;
+    padding-top:1cm;
+}
+
+.text-center{
+    margin-bottom: 1.5cm;
+    margin-top: 1.5cm;
+}
+.card{
+    box-shadow: 20px 24px 33px 5px rgba(0,0,0,0.75);
+    border-color: black;
+}
+.card-body{
+    padding: 0% 1%;
+}
+.card-title2{
+    color: black;
+
+}
+.new1{
+    color:white;
+    padding-bottom: 0.5cm;
+    padding-top: 0.5cm;
+    padding-left: 15cm;
+   
+    
+
+}
+.new2{
+    color:black;
+    margin-top: 100px;
+    padding-top: 8cm;
+    text-align: center;
+    font-size: 2rem;
+}
+.new3{
+    padding-bottom: 2cm;
+    text-align: center;
+    color: black;
+    padding-top: 50px;
+    font-size: 2rem;
+}
+.card-text{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.btn-dark:hover {
+    color:black;
+    background: whitesmoke;
+  }
+.text-centerr{
+    text-align: center;
+    color: whitesmoke;
+    padding-bottom: 1cm;
+}
+.text-center{
+    color: whitesmoke;
+}
+.center{
+    
+    float: right;
+    width: 300px;
+    padding: 10px;
+    box-shadow: 20px 24px 33px 5px rgba(0,0,0,0.75);
+    border-color: black;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 25px;
+
+}
+.para{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 0.5cm;
+    padding-bottom: 1cm;
+    font-size: 1.5rem;
+    
+}
+.ho{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    padding-bottom: 1cm;
+}
+.article-heading{
+    padding-bottom: 1.5cm;
+    font-style: oblique ;
+}
+.fab{
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    padding-left: 150px;
+    font-size: 1.75rem;
+}
+
+@media only screen and (max-width: 600px) {
+    img{
+     display: none;
+    }
+  }
+.para::first-line {
+    color:darkblue;
+    font-variant: small-caps;
+  }
+ho[target]{
+    text-align: center;
+}
+.table-name,th,td{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    padding-top: 3cm;
+    padding-right:25px;
+    border: 3px solid black;
+    padding-top:1cm;
+    padding-bottom: 0.5cm;
+    margin-bottom: 2cm;
+    margin-top: 2cm;
+    margin-right: 50%
+
+
+}

@@ -1,0 +1,21 @@
+$primarycolor: black;
+$seccolor: white;
+.new1{
+    color:$seccolor;
+    padding-bottom: 0.5cm;
+    padding-top: 0.5cm;
+    padding-left: 15cm;
+
+}
+.new2{
+    color:$primarycolor;
+    margin-top: 100px;
+    padding-top: 8cm;
+    text-align: center;
+}
+.new3{
+    padding-bottom: 2cm;
+    text-align: center;
+    color: $primarycolor;
+    padding-top: 50px;
+}
